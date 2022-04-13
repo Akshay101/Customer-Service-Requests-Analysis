@@ -26,8 +26,8 @@ Domain: Customer Service
 
 Note: For the below statements you need to state the Null and Alternate and then provide a statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.
 
-'1. Whether the average response time across complaint types is similar or not (overall)'
-'2. Are the type of complaint or service requested and location related?'
+1. Whether the average response time across complaint types is similar or not (overall)
+2. Are the type of complaint or service requested and location related?
 
 ## Dataset Description :
 
